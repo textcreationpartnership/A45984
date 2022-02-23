@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the more easy, and speedy securing, and recovery of small debts</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45984</idno>
+            <idno type="STC">Wing I317</idno>
+            <idno type="STC">ESTC R39289</idno>
+            <idno type="EEBO-CITATION">18367667</idno>
+            <idno type="OCLC">ocm 18367667</idno>
+            <idno type="VID">107361</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107361)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1636:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the more easy, and speedy securing, and recovery of small debts</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>MDCXCVII [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Small claims courts --  Ireland.</term>
+               <term>Ireland --  History --  1691-</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107361:1"/>
+            <p>AN ACT For the more EASY, AND <hi>Speedy Securing,</hi> AND RECOVERY OF SMALL DEBTS.</p>
+            <figure/>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN:</hi> Printed by <hi>Andrew Crook,</hi> Printer to the King's Moſt Excellent Majeſty, on <hi>Cork-Hill,</hi> near <hi>Copper-Alley.</hi> MDCXCVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:107361:2"/>
+            <pb n="3" facs="tcp:107361:2"/>
+            <head>An ACT for the more Eaſie, and Speedy Securing, and Recovery of Small Debts. CHAP. LX.</head>
+            <p>VVHEREAS nothing would conduce more to the Advancement of Trade, Commerce, and Induſtry in this King<g ref="char:EOLhyphen"/>dom, then that an Eaſie, and Summary way, for the Recovery, and Securing of Small Debts, might be found, whereby an Vniverſal Credit, might be Eſtabliſhed among the Trading people of this Realm, without the neceſſity of Tedious, and Coſtly Sutes of Law. May it therefore pleaſe your Majeſty, that it may be Enacted.</p>
+            <p>And be it Enacted by the King's Moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſty; by, and with the Advice and Conſent of the Lords Spiritual and Temporal, and Commons in this preſent Parliament Aſ<g ref="char:EOLhyphen"/>ſembled, and by Authority of the ſame; That in every County, and every County of a City, and County of a Town, in this Kingdom of <hi>Ireland;</hi> ſome perſon before the Firſt Day of <hi>February,</hi> in this preſent year of Our Lord, One thouſand Six hundred Ninety ſeaven, be appointed by His Majeſty, or by the Lord Lieu<g ref="char:EOLhyphen"/>tenant, Lord Deputy, Lord Iuſtice, or Lords Iuſtices, or other Chief Governour or Governours of this Kingdom, for the time being, to be Re<g ref="char:EOLhyphen"/>giſter
+<pb n="4" facs="tcp:107361:3"/>
+in each County, or County of a City, or County of a Town; which ſaid perſon ſo Ap<g ref="char:EOLhyphen"/>pointed, ſhall be a Reſident, or Inhabitant, for the moſt part, in ſuch County reſpectively, where<g ref="char:EOLhyphen"/>in he ſhall be, as herein-after Employed, and ſhall enter into Recognizance of Five hundred pounds <hi>Sterling,</hi> before ſome one of the Iudges of either Bench, or Barons of His Majeſty's Court of Exchequer, or before the Iuſtices of the Peace, at the next Quarter Seſſions, to be holden for the ſaid County, for the due Exe<g ref="char:EOLhyphen"/>cution of his Office; Which ſaid Recogni<g ref="char:EOLhyphen"/>zance, ſhall be Filed of Record, in His Maje<g ref="char:EOLhyphen"/>ſty's Court of Exchequer in this Kingdom, ſome time before the laſt Day of the Enſuing Term, after ſuch Recognizance ſhall be ac<g ref="char:EOLhyphen"/>knowledged: And that every ſuch Regiſter, of any ſuch County, as aforeſaid, ſhall, and may, by the Authority of this Act, have Power to Appoint One, or more Deputy, or Deputies, to Officiate under him in ſuch Coun<g ref="char:EOLhyphen"/>ty reſpectively.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That every ſuch Regiſter, and De<g ref="char:EOLhyphen"/>puty or Deputies, before he, or they, ſhall take upon him, or them reſpectively, the Execution of the ſaid Office, ſhall take the following Oath, before ſome One, or more of the Iuſtices of the Peace of the ſaid County, or County of a City, or County of a Town, or before the Chief Magiſtrate of ſuch Town, or Cor<g ref="char:EOLhyphen"/>poration, or his Deputy, where ſuch Regiſter ſhall keép his Office, <hi>(viz.)</hi>
+            </p>
+            <q>
+               <pb n="5" facs="tcp:107361:4" rendition="simple:additions"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <p>I A. B. do Swear, that I will according to the beſt of my Skill and Cunning, duly and faith<g ref="char:EOLhyphen"/>fully execute the Office of Regiſter (or Deputy Re<g ref="char:EOLhyphen"/>giſter) in this County, according to an Act of Parliament, Intituled, <hi>An Act for the more Eaſy and Speédy Securing, and Recovery of Small Debts,</hi> and that I will not Directly, nor Indirect<g ref="char:EOLhyphen"/>ly, demand, take, or receive any manner of Fee, Reward, or Gratuity, by reaſon, or Colour of my Office, other then ſuch Fees as are allowed by the ſaid Act.</p>
+                        <closer>
+                           <signed>So help me God.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And ſhall then likewiſe take the Oaths, and Subſcribe the Declaration mentioned and con<g ref="char:EOLhyphen"/>tained in an Act of Parliament, made in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> in the Third Year of the Reign of His pre<g ref="char:EOLhyphen"/>ſent Majeſty, and the late Queén <hi>Mary,</hi> Inti<g ref="char:EOLhyphen"/>tuled, <hi>An Act for the Abrogating the Oath of Su<g ref="char:EOLhyphen"/>premacy in <hi>Ireland,</hi> and Appointing other Oaths;</hi> Which ſaid Oath of Office, and other Oaths, and Declaration, the ſaid Iuſtice or Iuſtices of the Peace or other Chief Magiſtrate of ſuch Town or Corporation, or his Deputy, are here<g ref="char:EOLhyphen"/>by Authorized, Impowered and Required to Adminiſter. And further, that every ſuch Re<g ref="char:EOLhyphen"/>giſter, Deputy, or Deputies aforeſaid, upon the Pain, Penalty, and Forfeiture of his, or their reſpective Office or Offices, ſhall take the a<g ref="char:EOLhyphen"/>foreſaid Oath of Office, and the aforeſaid Oaths, and Subſcribe the Declaration, at the next Quarter-Seſſions, or the next Aſſizes to be holden for the ſaid County, or County of a City, or County of a Town, which ſhall firſt happen in Open Court, betweén the Hours of Nine and Twelve, in the Morning; which
+<pb n="6" facs="tcp:107361:5"/>
+ſaid Oaths reſpectively, and Declaration, the ſaid Iudges of Aſſize, or Iuſtices of the Peace at their reſpective Seſſions, are here<g ref="char:EOLhyphen"/>by Authorized, Impowered and Required to Adminiſter.</p>
+            <p>And be it further Enacted by the Authori<g ref="char:EOLhyphen"/>ty aforeſaid, That from and after the ſaid Firſt day of <hi>February</hi> next, every perſon and per<g ref="char:EOLhyphen"/>ſons having any Bond or Bill, under Hand and Seal, for any Summ or Summs of Mo<g ref="char:EOLhyphen"/>ney, not exceéding Ten pounds, principal Mo<g ref="char:EOLhyphen"/>ney, which ſaid Bond, or Bill, being ac<g ref="char:EOLhyphen"/>knowledged before any perſon who is a Iuſtice of the Peace in this Kingdom, or before the Chief Magiſtrate of any Town Corporate, and ſuch Iuſtice of the Peace, or Chief Magiſtrate, or his Deputy, Certifying ſuch Acknowledgment, which acknowledgment, every Iuſtice of the Peace of this Kingdom, and every Chief Magiſtrate of any Town Corporate, or his Deputy, are by the Authority of this Act, Impowered and Required to take, and Certificate under their reſpective Hands and Seals, to make, and de<g ref="char:EOLhyphen"/>liver, to the party and parties intereſted in ſuch Bond, or Bonds, Bill, or Bills, which Certi<g ref="char:EOLhyphen"/>ficate and Bond, or Bill, being brought to the Regiſter, or his Deputy, of ſuch County, County of a City, or County of a Town, wherein ſuch perſon is a Iuſtice of the Peace, or Chief Magiſtrate of a Town Corporate, or his Deputy, ſuch Regiſter, or his Deputy, or Deputies, or one of them, ſhall in a Book to be Kept for that purpoſe, make an Entry of the ſaid Bond, or Bill, and Acknow<g ref="char:EOLhyphen"/>ledgment, at large, as alſo the Receipts and
+<pb n="7" facs="tcp:107361:5"/>
+Transfers, thereon endorſed, if any be, and from, and after ſuch Entry, the perſon or per<g ref="char:EOLhyphen"/>ſons who perfected the ſame, his and their Goods and Chattles perſonal, ſhall be thereby Bound and Liable to the ſaid Debt and Intereſt, from the day of Payment, in like manner, as if the ſame had beén a Iudgment at Law.</p>
+            <p>And to the end there may be no Miſtakes or Controverſies, for, or concerning the ſaid Bonds, or Bills, in relation to the Word<g ref="char:EOLhyphen"/>ing thereof.</p>
+            <p>Be it further Enacted by the Authority aforeſaid, That all ſuch Bonds or Bills as ſhall be Regiſtered in purſuance of this Act, ſhall be Printed and Stamped with His Ma<g ref="char:EOLhyphen"/>jeſty's Arms, and be in the Form follow<g ref="char:EOLhyphen"/>ing; That is to ſay.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="form">
+                        <p>KNOW all men by theſe preſents, that  <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>  of  <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>  in the County of  <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>  do Acknowledge my ſelf to ſtand juſtly Indebted unto  <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>  of  <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>  in the County of  <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>  in the Full and Juſt Summ of  <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>  pounds <hi>Sterling,</hi> to be paid to the ſaid  <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>  His Executors, Adminiſtrators, or Aſſigns, at, or before the  <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>  day of  <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>  to the which payment, I Bind my ſelf, my Heirs, Executors and Adminiſtrators; and in default of Payment thereof, I do conſent, that Execution ſhall Iſſue againſt my Body, Goods and Chat<g ref="char:EOLhyphen"/>tles perſonal: Witneſs my Hand and Seal, this  <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>  day of  <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> 
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="8" facs="tcp:107361:6"/>And in Caſe that there be Two or more per<g ref="char:EOLhyphen"/>ſons Bound in the ſaid Bond, the ſaid Printed Bond ſhall be Printed and made ſo, as to com<g ref="char:EOLhyphen"/>prehended them, and to Bind them Ioyntly, and ſeverally. And to the end, Forged and Coun<g ref="char:EOLhyphen"/>terfeit Bonds, or Bills, may be prevented, and the Subjects of this Land, ſufficiently provided with the ſaid Bonds, or Bills ſo Printed and Stamped, at Eaſy and Moderate Rates.</p>
+            <p>Be it Enacted by the Authority aforeſaid, That every Regiſter of any County, or Coun<g ref="char:EOLhyphen"/>ty of a City, or County of a Town, ſhall pro<g ref="char:EOLhyphen"/>vide in every Market-Town, within their re<g ref="char:EOLhyphen"/>ſpective Limits and Precincts, a ſufficient quan<g ref="char:EOLhyphen"/>tity of ſuch Blank Bonds, or Bills for Sale, Stamped with the King's Arms, and the name of the County, whereof ſuch perſon ſhall be Regiſter. And that no perſon or perſons whatſoever, ſhall Expoſe to Sale in any ſuch Market-Town, as aforeſaid, any Stamped Printed Bonds, or Bills, other then ſuch as ſhall be Stamped by the ſaid Regiſter, or his Deputy, or Deputies, upon the penalty of Forfeiting Ten pounds for each Offence, to ſuch Regiſter, to be Recovered by ſuch Regiſter, thereby Injured, by Action of Debt, Bill, Plaint, or Information, wherein no Eſſoin ſhall be Al<g ref="char:EOLhyphen"/>lowed, or more then one Imparlance.</p>
+            <p>Provided always, And be it further Enacted, and Declared by the Authority aforeſaid; That no perſon or perſons, ſhall be oblidged to pay more then one penny for each of ſuch Bonds or Bills.</p>
+            <p>And be it further Enacted by the Authority aforeſaid; That the Words uſed by the party or parties, Transferring of the ſaid Bonds
+<pb n="9" facs="tcp:107361:6"/>
+or Bills, ſhall be theſe, or to the like Effect following; That is to ſay,
+<q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="form">
+                           <p>
+                              <hi>I <hi>A. B.</hi> do Transfer this Bill to <hi>C. D.</hi> as Wit<g ref="char:EOLhyphen"/>neſs my Hand, this  <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap>  day of  <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap>  
+                                 <hi>Anno Domini</hi>
+                              </hi>  
+                              <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> 
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>And in Caſe there be Two or more Obligeés, then the ſaid Transferrer ſhall be in their Names, with proper Words to the Effect and Purport aforeſaid, <hi>Mutatis Mutandis.</hi>
+            </p>
+            <p>And be it further Enacted by the Authority aforeſaid, That if any perſon or perſons, ſtand Indebted by ſuch Bond or Bill, Acknowledged and Entred, as aforeſaid, and ſhall refuſe to pay ſuch Debt or Debts, at the time the ſame ſhall become Due and Payable; Or at any time afterwards, ſuch Creditor or Creditors, making Oath, that the Money Due thereon, hath beén Demanded, and the Bond or Bill, Tendred to the party or parties Indebted, his, or their Executors, or Adminiſtrators, at his, or their, place or places of Aboad, or Reſidence, the ſaid Oath to be made before the Iuſtices of the Peace, at the Quarter Seſſions, to be holden for the County, County of a City, or County of a Town, where the ſaid Bond, or Bill, is Entred in open Court, between the Hours of Nine and Twelve in the Morn<g ref="char:EOLhyphen"/>ing; Which Oath, the ſaid Iuſtices of the Peace, are hereby Impowered, and Required to Adminiſter; and which Oath, the ſaid Re<g ref="char:EOLhyphen"/>giſter, or his Deputy, are Required to Receive and Enter; then the ſaid Regiſter, or his De<g ref="char:EOLhyphen"/>puty, at the ſame Quarter-Seſſions of the Peace, or at any other Quarter-Seſſions to
+<pb n="10" facs="tcp:107361:7"/>
+be holden for the ſaid County, at any time within One Year after the ſaid Money ſhall become due, and payable, upon the Delivery to him, the ſaid Regiſter, or his Deputy of the ſaid Bond, or Bill, ſhall Iſſue a Warrant of Execution, under his Hand, and Seal of Office, Directed to all and every the High-Sheriffs, Coroners, Bailiffs, Seneſchals, Stewards, and High-Conſtables of this Kingdom, againſt the perſon or perſons, his or their Executors, or Adminiſtrators Owing the ſaid Money, or his and their Goods and Chattles perſonal, for the Recovery, and Levying of the ſaid Money, to<g ref="char:EOLhyphen"/>gether with the Intereſt which ſhall then be Due; as alſo the Coſts and Feés, for Entring of the ſaid Bond or Bill, and for the Warrant of Execution, and other Feés, according to the Directions and Limitations, herein-after men<g ref="char:EOLhyphen"/>tioned and expreſſed.</p>
+            <p>And to the end, all Diſputes and Contro<g ref="char:EOLhyphen"/>verſies, for, and concerning the Payment, and Diſcharge of ſuch Debt or Debts, for, or on Account of ſuch Bonds or Bills, may be pre<g ref="char:EOLhyphen"/>vented.</p>
+            <p>Be it further Enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That no Payment or Payments, ſhall be Eſteémed, Valid, for, or on Account of ſuch Bonds or Bills, unleſs the ſame be Entred on the back of the ſaid Bond or Bill, by the par<g ref="char:EOLhyphen"/>ty or parties, Intereſted therein, at the time of Entring of ſuch Payment or Payments.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That the Sheriffs, Coroners, Bai<g ref="char:EOLhyphen"/>liffs, Seneſchals, Stewards, and High-Con<g ref="char:EOLhyphen"/>ſtables, who ſhall have the Execution of the ſaid Warrants, in their reſpective Counties, County
+<pb n="11" facs="tcp:107361:7"/>
+of a City, or County of a Town, Precincts, and Liberties, ſhall have full Power and Au<g ref="char:EOLhyphen"/>thority, upon the Delivery of ſuch Warrant or Warrants, to them reſpectively; and are accor<g ref="char:EOLhyphen"/>dingly hereby required to Arreſt, and take the Body or Bodies, of the Perſon or Perſons, againſt whom the ſaid Warrants of Execution ſhall Iſſue, if ſo be the Party or Parties, Plan<g ref="char:EOLhyphen"/>tiff or Plantiffs, his, or their Servant, or A<g ref="char:EOLhyphen"/>gent, ſhall deſire the ſame: And in Caſe any Perſon or Perſons, at ſuch deſire, ſhall be ſo Arreſted or Taken, by any of the afore<g ref="char:EOLhyphen"/>ſaid Officers, appointed by this Act, who have not the Cuſtody, or Keéping of Priſoners upon Execution, out of His Majeſty's Four Courts, that then the Perſon or Perſons ſo taken, ſhall be Delivered to the Plantiff, or his Servant, or Agent, to be carryed, and conveyed to the Sheriff, or other Officer, having the Cuſtody of the Goal of the ſaid County, where the ſaid Perſon or Perſons ſhall be ſo Taken, at the Charge and Peril of the ſaid Plantiff; Who is hereby required to Receive and Keép, him or them, in ſafe Cuſtody; Which ſaid Sheriff, or other Officer, having the Cuſtody of the ſaid Goal, ſhall be chargable with the ſaid Deb<g ref="char:EOLhyphen"/>tor or Debtors, in like manner, as if ſuch Debtor or Debtors, had beén taken upon a <hi>Capias ad Satisfaciendum,</hi> upon a Iudgment at Common Law.</p>
+            <p>And be it further Enacted by the Authori<g ref="char:EOLhyphen"/>ty aforeſaid, That the ſaid ſeveral Sheriffs, Coroners, Bailiffs, Seneſchals, Stewards, and High-Conſtables in their reſpective Li<g ref="char:EOLhyphen"/>mits and Precincts, ſhall by the Authori<g ref="char:EOLhyphen"/>ty of this Act, have full Power and Au<g ref="char:EOLhyphen"/>thority
+<pb n="12" facs="tcp:107361:8"/>
+upon ſuch Warrant of Execution, a<g ref="char:EOLhyphen"/>gainſt any perſon or perſons Goods, at the de<g ref="char:EOLhyphen"/>ſire of the party, or parties, Plantiff, or Plantiffs, his, or their Agent or Servant, to Seize and take the ſaid perſon, or perſons, Goods, and Chattles perſonal, in Execution, and the ſame to Appraiſe by the Appraiſers of the Pa<g ref="char:EOLhyphen"/>riſh, or Barony, where the ſame ſhall be ſo taken or Seized, and ſhall give the Debtor, or Deb<g ref="char:EOLhyphen"/>tors if ſo be he, or they may be found, the Firſt Refuſal of the ſaid Goods and Chattles per<g ref="char:EOLhyphen"/>ſonal, at the Appraiſed Rate; which if the ſaid Debtor, or Debtors, ſhall refuſe, or ne<g ref="char:EOLhyphen"/>glect to pay within Ten days after ſuch Appraiſement, then the ſaid Goods and Chattles perſonal, ſhall be ſold and delivered to the Plantiff, his Servant, or Agent, he, or they paying according to the Appraiſed Values, to the party or parties Intereſted, whatſoever Summ or Summs of Mo<g ref="char:EOLhyphen"/>ney the ſame ſhall amount unto, over and a<g ref="char:EOLhyphen"/>bove the ſaid Principal Debt,, Intereſt, and Coſts, according to the true intent and mean<g ref="char:EOLhyphen"/>ing of this Act, and for which, the ſaid War<g ref="char:EOLhyphen"/>rant of Execution, ſhall be a ſufficient Au<g ref="char:EOLhyphen"/>thority to the ſaid Sheriff, Coroner, Bailiff, Seneſchal, Steward, and High-Conſtable, and to every, or any of them, and that the ſaid Sheriff, Coroner Bailiff, Seneſchal, Steward, or High-Conſtable, ſhall make return thereon, in what manner the ſaid Warrant was Exe<g ref="char:EOLhyphen"/>cuted, to the Regiſter of the County, or his Deputy, or Deputies, from whence the ſaid Warrant of Execution Iſſue, at, or before the next Quarter-Seſſions of the Peace, to be hol<g ref="char:EOLhyphen"/>den for the ſaid County, after ſuch Execution Executed; which Warrant of Execution, with the
+<pb n="13" facs="tcp:107361:9"/>
+Return thereof, ſhall be read in the open Court, and there Filed, and kept by the ſaid Regiſter, or his Deputy, and in caſe the Sheriff, or any other Officer, as aforeſaid, appointed by this Act, ſhall on any ſuch Warrant of Execution, take any perſon or perſons, or his, or their Goods, or Chattles perſonal, in purſuance, or by Colour of this Act, and ſhall refuſe, or ne<g ref="char:EOLhyphen"/>glect to execute, or make return of ſuch War<g ref="char:EOLhyphen"/>rant of Execution in reaſonable time, after the delivery thereof, and according to the Di<g ref="char:EOLhyphen"/>rection of this Act, upon reaſonable demand made by the Plantiff or Plantiffs, his, or their Servant, or Agent, that then ſuch Sheriff, or other Officer, as aforeſaid, refuſing, or ne<g ref="char:EOLhyphen"/>glecting ſo to do, ſhall be lyable to an Action on the Caſe, at the Sute of the ſaid Plan<g ref="char:EOLhyphen"/>tiff, or Plantiffs, his, or their Executors, or Adminiſtrators, in like manner, as if the ſame had beén an Execution, Executed on any Iudg<g ref="char:EOLhyphen"/>ment at Law, either upon the Body, or Goods; and ſhall pay Treble Coſts, in caſe Iudgment ſhall paſs for ſuch Plantiff, or Plan<g ref="char:EOLhyphen"/>tiffs, his, or their Executors or Adminiſtrators.</p>
+            <p>Provided always, and be it further Enacted and Declared, by the Authority aforeſaid, That all and every perſon, or perſons, Plantiff, or Plantiffs in every ſuch Warrant of Execu<g ref="char:EOLhyphen"/>tion, ſhall from time to time, and at all times before ſuch Execution, made and Executed, be at full Power and Liberty to make his Ele<g ref="char:EOLhyphen"/>ction or Choice, whether he will have the Body or Bodies, or Goods perſonal, taken in Execution, of the party, or parties, Defendant on ſuch Warrant of Execution, as aforeſaid: And that the ſaid Sheriff, Coroner, Baliff,
+<pb n="14" facs="tcp:107361:10"/>
+Seneſchal, Steward, and High-Conſtable, and every of them, ſhall purſue the Direction of the Plantiff, or Plantiffs, his, or their Servant, or Agent therein; and in Caſe the Plantiff, or Plantiffs, his or their Servant, or Agent, ſhall procure the ſaid Defendants Body to be taken in Execution, then no further Exe<g ref="char:EOLhyphen"/>cution on the Defendants Goods, ſhall be du<g ref="char:EOLhyphen"/>ring the continuance of the ſaid Defendants Impriſonment; or in Caſe the Plantiff, or Plan<g ref="char:EOLhyphen"/>tiffs; his or their Servant, or Agent, ſhall pro<g ref="char:EOLhyphen"/>cure ſuch Defendants Goods and Chattles per<g ref="char:EOLhyphen"/>ſonal, to be taken in Execution, which on Ap<g ref="char:EOLhyphen"/>praiſment ſhall appear to be ſufficient to an<g ref="char:EOLhyphen"/>ſwer the ſaid Complainants Debt, Principal, In<g ref="char:EOLhyphen"/>tereſt, and the Coſts herein-after allowed; that then, no Execution ſhall be made on the ſaid De<g ref="char:EOLhyphen"/>fendants perſon, any thing herein contained to the contrary in any wiſe notwithſtanding.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That it ſhall, and may be Lawful, to, and for ſuch perſon or perſons, to whom any Money ſhall be Due, or Owing by ſuch Bond or Bill, upon the back of ſuch Bond, or Bill, in manner, as is aforeſaid directed to Transfer, or Aſſign the Money ſo Due and Owing, together, with the Intereſt then accrued, or to accrue, and the Coſts paid in purſuance, or according to the Direction of this Act, to any other perſon or perſons what<g ref="char:EOLhyphen"/>ſoever; and the ſame ſo Aſſigned, or Trans<g ref="char:EOLhyphen"/>ferred, ſuch Aſſignee or Aſſignes, his, or their Executors, or Adminiſtrators, ſhall have the En<g ref="char:EOLhyphen"/>tire, and ſole Right, Intereſt, and Property in the ſaid Bond or Bill, together with the Mo<g ref="char:EOLhyphen"/>ney, Principal, Intereſt, and Coſts due thereon,
+<pb n="15" facs="tcp:107361:10"/>
+Excluſively of any Right, Property, or Inter<g ref="char:EOLhyphen"/>eſt of any other perſon or perſons, his, or their Executors, or Adminiſtrators, to whom the ſame was formerly Entred into, or Transferred, or Aſſigned, and that no Releaſe, or Diſcharge of any ſuch former Proprietor, after ſuch Aſſign<g ref="char:EOLhyphen"/>ment, or Transferring, as aforeſaid, ſhall any way operate to the Prejudice, or Damage of the party or parties, to whom the ſame ſhall be, as aforeſaid, Aſſigned, or Transferred; but that the Aſſigneé or Transfereé, Aſſignes or Trans<g ref="char:EOLhyphen"/>ferreés, his, or their Executors, Adminiſtrators, or Aſſignes, who have, or hath the Right, or Intereſt in the ſaid Bond or Bill, ſhall have the Warrant of Execution in his, or their own Name or Names, in as large, ample and be<g ref="char:EOLhyphen"/>neficial manner, as if the ſaid Bond or Bill, had beén at firſt made to him or them; any Law, or Cuſtom to the contrary notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <p>Provided always, That the Transferring, or Aſſigning of ſuch Bond or Bill, ſhall not any way Extend, or be Conſtrued to Extend, to oblidge the perſon or perſons, or Goods and Chattles of the party, or parties ſo Transfer<g ref="char:EOLhyphen"/>ring, any thing in this Act, or any other Cu<g ref="char:EOLhyphen"/>ſtom or Law, to the contrary hereof in any<g ref="char:EOLhyphen"/>wiſe notwithſtanding.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That in caſe any perſon or per<g ref="char:EOLhyphen"/>ſons, ſhall preſume to Forge, or Counterfeit any Iuſtice of the Peace's Hand or Seal, to any ſuch Bond or Bill, or the Hand and Seal, of Office, of any ſuch Regiſter, or his Deputy or Deputies, to any ſuch Warrant of Execution, or to any Indorſments, by ſuch Regiſter, or his
+<pb n="16" facs="tcp:107361:11"/>
+Deputy, or Deputies made, Certifying that ſuch Bond, or Bill, was Regiſtred according to, or in Purſuance of this Act, ſuch perſon or perſons ſo Offending, and thereof duly Convict, ſhall ſuffer ſuch Pains, Penalties and Forfeitures, as a Felon, without Benefit of Clergy.</p>
+            <p>And for the better preventing of all Partial, and Vnfair Practizes, by any Sheriff, Coroner, Bailiff, Seneſchal, Steward, or High-Conſtable, in the Execution of this Act, or any part thereof.</p>
+            <p>Be it Enacted by the Authority aforeſaid, That it ſhall, and may be lawful, to and for the Iuſtices of Aſſize in their ſeveral Circuits, and Ridings, at their General Aſſizes, and to, and for the Iuſtices of the Peace, at their Ge<g ref="char:EOLhyphen"/>neral Quarter-Seſſions, in their reſpective Coun<g ref="char:EOLhyphen"/>ties, where ſuch Partial, or Vnfair Practices, ſhall be by them, or any of them committed, or done: and they are reſpectively hereby required, upon complaint thereof, to cauſe the party or parties Offending, as aforeſaid to be thereof Indicted; and in eaſe the party Offending, ſhall not ſubmit, he ſhall be with all reaſonable ſpeéd Tried, and if Ver<g ref="char:EOLhyphen"/>dict ſhall paſs againſt him, or in caſe he ſhall ſub<g ref="char:EOLhyphen"/>mit, that then the Iudge, or Iudges of Aſſize, or Iuſtices of the Peace, or Major part of them, ſhall, and may, by the Authority of this Act, and are hereby required to lay ſuch Fine as to them reſpectively ſhall ſeém meét, and reaſonable, not exceéding Ten pounds, the ſame to be Levyed within Thirty days after ſuch Fine Impoſed by Warrant of the ſaid Court reſpectively, where the ſaid complaint ſhall be made, upon the Goods of the perſon ſo Offending, and Convict, as a<g ref="char:EOLhyphen"/>foreſaid, without further Appeal, or Sute, in Law or Equity.</p>
+            <p>
+               <pb n="17" facs="tcp:107361:11"/>Provided always, That in Caſe the perſon ſo Offending, ſhall within the ſaid Thirty days, make Satisfaction to the party or parties grieved, and ſhall procure his, or their Certificate, under his, or their Hands and Seals, to that Effect and Purpoſe, to the Clerk of the Crown, or Clerk of the Peace, reſpectively Directed, who is to Iſſue ſuch Warrant, as aforeſaid; that then, and in ſuch Caſe, the ſaid Clerk of the Crown, or Clerk of the Peace, reſpectively Directed, who is to Iſſue ſuch Warrant, as aforeſaid; that then, and in ſuch Caſe, the ſaid Clerk of the Crown, or Clerk of the Peace reſpectively, are hereby required to make ſtay of ſuch Warrants, till the next Aſ<g ref="char:EOLhyphen"/>ſizes, or next Quarter-Seſſions reſpectively; at which time it ſhall, and may be lawful, to, and for the Iudge or Iudges of Aſſize, or Iuſtices of the Peace, or major part of them, upon appli<g ref="char:EOLhyphen"/>cation to them reſpectively, at their General Aſſizes, or General Quarter-Seſſions in open Court, the party or parties injured, being firſt ſatisfied, as aforeſaid, to reduce ſuch Fine or Fines, according to his, or their reſpective Diſ<g ref="char:EOLhyphen"/>cretion or Diſcretions.</p>
+            <p>And be it further Enacted by the Authority a<g ref="char:EOLhyphen"/>foreſaid, That in Caſe any perſon or perſons, as aforeſaid, Taken in Execution by any ſuch Warrant of Execution in purſuance of this Act, ſhall Dye in Execution, the Debt ſhall not be Diſcharged thereby, but be lyable to be Levied, and Raiſed in manner as aforeſaid, by Warrant of Execution, upon his, or their Goods and Chat<g ref="char:EOLhyphen"/>tles perſonal, wherever they may be found in this Kingdom. And to the end, Exaction, or Ex<g ref="char:EOLhyphen"/>tortion of Feés for, or concerning the Execution of this Act, may be prevented.</p>
+            <p>
+               <pb n="18" facs="tcp:107361:12"/>Be it further Enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That the Regiſter's Feés, for Entring the ſaid Bond or Bill, and Certifying the ſame, ſhall be Six pence, and no more; And for Iſſuing a Warrant of Execution, One ſhilling, and no more; And for Entring of a Diſcharge of the ſaid Bond or Bill, Threé pence, and no more; And for Entring each Transfer, if deſired, Two pence and no more; And that the Feés of the ſaid Sheriff, Coroner, Bailiff Seneſchal, Stew<g ref="char:EOLhyphen"/>ard, or High-Conſtable, for the taking of the ſaid Obligor, or for taking of his Goods and Chat<g ref="char:EOLhyphen"/>tles on the ſaid Warrant of Execution, ſhall be One Shilling, and no more; and to the Apprai<g ref="char:EOLhyphen"/>ſer, or Appraiſers of ſuch Goods and Chattles perſonal, Six pence in the pound, and no more; And to ſuch Officer, or Officers, to whom the Cuſtody of the ſaid perſon in Execution ſhall be Committed, Six pence in the pound, and no more.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That in Caſe any perſon or perſons, ſhall corruptly take, or make any Falſe Oath, or Suborn, or Procure any perſon or perſons, corruptly to make ſuch Falſe Oath, for any mat<g ref="char:EOLhyphen"/>ter, or thing relating to this Act, ſuch perſon or perſons, corruptly making ſuch Falſe Oath, or procuring ſuch Falſe Oath, corruptly to be made, being thereof Lawfully Convict, ſhall for every ſuch Offence, Incur and Suffer, ſuch, and the like pains and penalties, as are mentioned and preſcribed, to be inflicted on perſons Offending in Caſes of Perjury, and Subornation, by one Act made in this Kingdom, in the Eighteénth year of the Reign of the late Queén <hi>Elizabeth</hi> of ever Glorious Memory, Intituled, <hi>An Act con<g ref="char:EOLhyphen"/>cerning willful Perjury.</hi>
+            </p>
+            <p>
+               <pb n="19" facs="tcp:107361:12"/>And for preventing of the Abuſes or Irregu<g ref="char:EOLhyphen"/>lar Proceédings which may be otherwiſe com<g ref="char:EOLhyphen"/>mitted or done by Regiſters, or their Deputies in the Execution of this Act.</p>
+            <p>Be it Enacted by the Authority aforeſaid, That every Regiſter, or his Deputy, or De<g ref="char:EOLhyphen"/>puties, of any County, or County of a City, or County of a Town, within this Kingdom, ſhall, and are hereby required, to deliver to the Clerk of the Peace, at every Quarter-Seſſions, and to the Iuſtice of the Peace, who is Chairman at ſuch Quarter-Seſſions, and to each of them, a Book fairly drawn, and Signed by ſuch Regiſter, or his Deputy, which ſhall be a true Copy of all Entries made ſince the former Seſſions; in which Books, the ſaid Clerk of the Peace, and Iuſtice of the Peace, ſhall enter reſpectively, ſuch Rules, Orders, and Proceédings, as ſhall be made at that Quarter-Seſſions, and in open Court, ſhall cauſe the ſaid Regiſter to read over his Book, compa<g ref="char:EOLhyphen"/>ring it with the ſaid Clerk of the Peace's Book, and the ſaid Iuſtices Book, and making them all to agreé; which being done, the ſaid Iuſtice of the Peace, Regiſter, or his Deputy, and the Clerk of the Peace, ſhall all of them in open Court, in the preſence of the Iuſtices, compo<g ref="char:EOLhyphen"/>ſing the ſaid Court, Sign their reſpective Names in each Book, and then the ſaid Iuſtices of the Peace, ſhall keép one of them, the Regiſter another, and the Clerk of the Peace the third, which ſaid Books, or two of them at leaſt, ſhall be from Seſſion to Seſſion, brought into Court by the reſpective perſons aforeſaid.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
